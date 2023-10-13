@@ -3,7 +3,7 @@
 </div>
 <imgs rc="https://github.com/GarciaFernando1/GarciaFernando1/assets/113075299/7be4c00e-ccf4-4d0c-81e1-08067b343d09">
 
- ">
+
 
 ## Sobre mi
 
