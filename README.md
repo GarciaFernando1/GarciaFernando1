@@ -7,6 +7,6 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Github Juniors ⭐ 
 - 📲 TECNICO EN PROGRAMACION
 - 📗 Estudios completos en la UTN San Rafael Mendoza
