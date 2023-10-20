@@ -8,8 +8,8 @@
 
 ## Sobre mi 
 
-- ⭐ Github ⭐
-- ⭐LINKEDIN - www.linkedin.com/in/fernando-julio-dario-garcia-b782b8257 ⭐
+- ⭐ GITHUB ⭐
+- ⭐LINKEDIN⭐ www.linkedin.com/in/fernando-julio-dario-garcia-b782b8257 ⭐
 - 📊 Programador Juniors 
 - 📲 TECNICO EN PROGRAMACION
 - 📗 Estudios completos en la UTN - San Rafael - Mendoza
