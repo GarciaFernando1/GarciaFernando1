@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="FERNANDO GARCIA">FERNANDO GARCIA</a> 👋</h1>
 </div>
- < img src="https://images.app.goo.gl/egG6tVDBkCYXNuc68" /></div>
+ <img src="https://images.app.goo.gl/egG6tVDBkCYXNuc68" />
 
 
 
