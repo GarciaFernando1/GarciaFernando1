@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="FERNANDO GARCIA">FERNANDO GARCIA</a> 👋</h1>
 </div>
- <img src="https://media.licdn.com/dms/image/D4D16AQF-IjmNcFYevQ/profile-displaybackgroundimage-shrink_350_1400/0/1697728994279?e=1703116800&v=beta&t=1RFStMw6qDnyvH8aa2-2geNzqTXejkFdcnsEljC1ozY
+ <img src="https://github.com/CodeSystem2022/BrainStorm-TercerSemestre/assets/113075299/9bb3cf16-3892-4f25-90de-e781bfccbddb
 " />
 
 
