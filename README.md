@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="FERNANDO GARCIA">FERNANDO GARCIA</a> 👋</h1>
 </div>
- <img src="https://img.freepik.com/foto-gratis/codificacion-programas-informaticos-pantalla_53876-138060.jpg?size=626&ext=jpg&ga=GA1.1.1856739629.1697816338&semt=sph
+ <img src="https://media.licdn.com/dms/image/D4D16AQF-IjmNcFYevQ/profile-displaybackgroundimage-shrink_350_1400/0/1697728994279?e=1703116800&v=beta&t=1RFStMw6qDnyvH8aa2-2geNzqTXejkFdcnsEljC1ozY
 " />
 
 
